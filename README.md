@@ -1,3 +1,5 @@
+                                                             NAME : DEVA ABISHEK P
+                                                             REG. NO: 212223110008
 #  Mean and variance of a discrete  distribution
 
 
